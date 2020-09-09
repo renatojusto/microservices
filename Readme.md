@@ -26,3 +26,15 @@ GET http://localhost:8888/ligacao/native
    ]
 }
 ```
+
+### Testar Microserviço Ligação
+
+POST http://localhost:8889/ligacoes
+
+```
+    {
+        "cliente": "Renato" 
+    }
+```
+
+GET http://localhost:8889/ligacoes

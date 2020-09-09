@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/ligacao")
+@RequestMapping("/ligacoes")
 public class LigacaoResource {
 
     private final transient Logger log = LoggerFactory.getLogger(LigacaoResource.class);
