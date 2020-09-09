@@ -1,4 +1,4 @@
-package com.db1.microservice.config;
+package com.db1.microservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

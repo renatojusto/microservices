@@ -1,4 +1,4 @@
-package com.db1.microservice.config;
+package com.db1.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
