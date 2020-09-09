@@ -18,7 +18,7 @@
 
 	<modules>
 		<module>config-server</module>
-		<module>ligacao</module>
+		<module>microservice-ligacao</module>
 	</modules>
 
 	<properties>
